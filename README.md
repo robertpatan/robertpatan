@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Seasoned Software Developer
 ---------------------------
 
-With over 8 years of experience in software development, I have had the opportunity to work in various industries such as blockchain, e-commerce, ERP, IoT, and more. My primary focus has been on planning and developing small to large projects, utilizing technologies such as Laravel, Symfony, Node.js, NestJS and others.
+Hey there! I'm a software developer with more than 8 years of experience under my belt. I've worked on some really cool projects across different industries like blockchain, e-commerce, ERP, and IoT - just to name a few! My bread and butter is planning and developing projects of all sizes using technologies like Laravel, Symfony, Node.js, NestJS, and more.
 
-I am passionate about my work, and this makes it easy for me to stay motivated and productive. I enjoy experimenting and playing with new technologies, but there is nothing quite like the satisfaction of successfully incorporating these shiny new tools into genuine projects. 
+I'm super passionate about what I do and that keeps me motivated and productive. I love trying out new technologies and tinkering with them until they become part of something real. There's nothing quite like that feeling of satisfaction when it all comes together!
 
-Always looking for new challenges and opportunities to learn and grow as a developer.
+I'm always on the lookout for new challenges and opportunities to learn and grow as a developer. So if you've got something exciting in mind, hit me up!
 
 * 🌍  I'm based in Bucharest, Romania
-* 🚀  I'm currently working on my own version of a broad income calculator for my home country Romania. WIP. (http://dupataxe.ro)
+* 🚀  I'm currently working on my own version of a broad income calculator for my home country Romania. WIP. (https://dupataxe.ro)
 * 🧠  I'm learning Angular and WebRTC
 
 ### Skills
