@@ -11,8 +11,6 @@ I'm super passionate about what I do and that keeps me motivated and productive.
 I'm always on the lookout for new challenges and opportunities to learn and grow as a developer. So if you've got something exciting in mind, hit me up!
 
 * 🌍  I'm based in Bucharest, Romania
-* 🚀  I'm currently working on my own version of a broad income calculator for my home country Romania. WIP. (https://dupataxe.ro)
-* 🧠  I'm learning Angular and WebRTC
 
 ### Skills
 
